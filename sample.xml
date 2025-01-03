@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <person>
+        <name>John Doe</name>
+        <age>30</age>
+        <city>New York</city>
+        <attribute tag1="abc" tag2="xyz"/>
+    </person>
+    <person>
+        <name>Jane Doe</name>
+        <age>25</age>
+        <city>Los Angeles</city>
+        <attribute tag1="def" tag2="uvw"/>
+    </person>
+    <company>
+        <name>Example Corp</name>
+        <location>California</location>
+        <details employees="200" revenue="1M"/>
+    </company>
+</root>
